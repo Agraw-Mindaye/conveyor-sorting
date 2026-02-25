@@ -1,3 +1,7 @@
+# State Machine
+
+![State Machine Diagram](../media/diagrams/state_machine.png)
+
 
 | Current State   | Condition (evaluated each scan) | Next State      | Actions/Notes                                                        |
 | --------------- | ------------------------------- | --------------- | -------------------------------------------------------------------- |
