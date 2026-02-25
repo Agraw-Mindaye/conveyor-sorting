@@ -13,6 +13,13 @@
 *.crc
 *.map
 
+# CODESYS user-specific files
+*.opt
+*.precompilecache
+
+# draw.io temporary backup files
+.$*.bkp
+
 # =========================
 # Factory I/O temp files
 # =========================
